@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on repo of my knowledge and database of useful tips and tricks for IT and life hacks
+
+piotrf
 
 <!--
 **phastyr/Phastyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
