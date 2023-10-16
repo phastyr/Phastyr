@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on repo of my knowledge and database of useful tips and tricks for IT and life hacks
+- new lines, new lives
 
 piotrf
 
